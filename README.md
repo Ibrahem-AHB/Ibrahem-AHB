@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ibrahem-AHB
-- 👀 I’m interested in Azure , CMG , SCCM , Intune ,
+- 👀 I’m interested in Azure , CMG , SCCM , Intune , system admin , cloud computing , machine learning 
 - 🌱 I’m currently learning ... M365
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
